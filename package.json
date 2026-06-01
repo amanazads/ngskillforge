@@ -4,7 +4,8 @@
   "description": "A scalable backend plateform for online learning management.",
   "main": "server.js",
   "scripts": {
-    "dev": "nodemon src/server.js"
+    "dev": "nodemon src/server.js",
+    "start": "node src/server.js"
   },
   "keywords": [],
   "author": "",
